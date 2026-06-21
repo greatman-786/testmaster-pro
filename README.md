@@ -1,4 +1,4 @@
- 🧪 TestMaster Pro
+🧪 TestMaster Pro
 
 An AI-powered testing platform that helps developers automatically generate 
 comprehensive test cases, improve code quality, and catch bugs early — built 
@@ -55,7 +55,7 @@ Ready to Copy into Your Project
 
 1. Clone the repository
 ```bash
-git clone https://github.com/asad/testmaster-pro.git
+git clone https://github.com/greatman-786/testmaster-pro.git
 cd testmaster-pro
 ```
 
@@ -152,4 +152,4 @@ within serverless time limits.
 ## 🙋‍♂️ Author
 
 **Asad** — Software Engineer  
-Building AI-powered web applications for real-world use cases.
+Building AI-powered web applications for real-world use cases
